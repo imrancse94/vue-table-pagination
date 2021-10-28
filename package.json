@@ -1,7 +1,7 @@
 {
-  "name": "vue-table-pagination",
+  "name": "vue-laravel-table-pagination",
   "version": "1.0.0",
-  "description": "",
+  "description": "Paginate table from laravel api.",
   "main": "dist/vue-table-pagination.ssr.js",
   "browser": "dist/vue-table-pagination.esm.js",
   "module": "dist/vue-table-pagination.esm.js",
@@ -44,5 +44,15 @@
   },
   "engines": {
     "node": ">=12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrancse94/vue-table-pagination.git"
+  },
+  "keywords": [
+    "vue-pagination",
+    "pagination",
+    "table pagiantion"
+  ],
+  "author": "Imran Hossain <imrancse94@gmail.com>"
 }

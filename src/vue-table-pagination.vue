@@ -45,9 +45,9 @@ export default {
   name: "VueTablePagination", // vue component name
   props: {
     data: {
-      type: Object,
+      type: Array,
       default() {
-        return {};
+        return [];
       },
     },
   },

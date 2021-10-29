@@ -1,6 +1,6 @@
 {
   "name": "vue-laravel-table-pagination",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Paginate table from laravel api.",
   "main": "dist/vue-table-pagination.ssr.js",
   "browser": "dist/vue-table-pagination.esm.js",

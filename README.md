@@ -32,7 +32,6 @@ Vue.component('Pagination', Pagination)
 
 <script>
 
-
 export default {
   name: 'App',
   data(){
